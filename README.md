@@ -1,1 +1,1 @@
-# MarijanaWebPage.github.io
+# marijanawebpage.github.io
