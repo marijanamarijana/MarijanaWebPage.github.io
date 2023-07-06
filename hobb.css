@@ -1,0 +1,67 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Ysabeau+SC:wght@400;500;800&display=swap");
+
+body{
+    font-family: sans-serif;
+    margin: auto;
+}
+header{
+    background: darkslateblue;
+    height: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+header li{
+    list-style: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    display: inline-block;
+}
+header a:hover{
+    color: gray;
+}
+#footer{
+    background: darkslateblue;
+    color: white;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 50px;
+    float: right;
+    width: 100%;
+}
+section{
+    display: inline-block;
+    text-align: center;
+    font-weight: 800;
+    font-size: 18px;
+}
+h2,h3{
+    margin-top: 15px;
+    text-align: center;
+}
+#mein div{
+    display: flex;
+    justify-content: center;
+}
+#mein ul li{
+    display: inline-block;
+    font-weight: 800;
+    font-size: 18px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background: gray;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+#mein ul{
+    display: flex;
+    justify-content: center;
+}
